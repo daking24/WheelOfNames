@@ -1,7 +1,3 @@
-# React Lucky Draw
-
-Presentation video: https://www.youtube.com/watch?v=CPjtXvVKkYM
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,14 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## Merging code process
-
-1. Clone the source code to your local: git clone https://github.com/hoadv/intern-assignments.git
-2. Creating a new branch with your branch name, e.g: implement-wheelofname-app: git checkout -b implement-wheelofname-app
-3. Adding files that you want to commit, e.g: add all file: git add .
-4. Committing with some message: git commit -m "Init project"
-5. Pushing your branch to remote repository: 5.1: The first time you push: git push -u origin implement-wheelofname-app 5.2: From the second time, you can use: git push
-6. Creating the new pull request from github
-7. Assigning the reviewer to your pull request.
-8. Sending the pull request url
